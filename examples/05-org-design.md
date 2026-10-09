@@ -2,6 +2,10 @@
 
 > Реальный ответ агента в Amazon Quick. Данные в запросе вымышленные.
 
+**Так это выглядит в Amazon Quick:**
+
+![Скриншот агента в Amazon Quick](screenshots/05-org-design.png)
+
 ## Запрос
 
 > Посчитай span of control и флаги. Структура (код — должность — руководитель): E01 CEO; E02 Head of Sales — E01; E03 Head of Delivery — E01; E04 CFO — E01; E05 Team Lead Sales — E02; E06–E13 Account Manager, 8 человек — E05; E14 Delivery Manager — E03; E15 Team Lead Engineers — E14; E16–E25 Engineer, 10 человек — E15; E26 Accountant — E04. Пороги: span от 3 до 8 для однородной работы, от 3 до 6 для экспертной.
