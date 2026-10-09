@@ -39,6 +39,8 @@ English agents answer in the user's language, so the same prompt works for inter
 
 See how the agents handle real tasks: 7 worked examples in [`examples/`](examples) — HR system audit, hiring funnel, 30-60-90 plan, competency model, sales compensation, org structure and headcount plan (answers in Russian).
 
+![People OS Architect in Amazon Quick](examples/screenshots/00-people-os-architect.png)
+
 ## How they connect
 
 Start with **People OS Architect**: it audits the HR system and, for each stage, tells you which agent to use and what exact question to ask.
